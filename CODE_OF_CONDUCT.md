@@ -1,90 +1,93 @@
-# CollectiVAI Code of Conduct
+# CollectiVAI – Code of Conduct
 
-CollectiVAI is an independent, human-centred project with a strong European focus.  
-We want our community spaces to be safe, constructive and welcoming – for everyone.
+CollectiVAI is a project about **democratic, human-centred AI**.  
+We want a space that is safe, respectful and constructive for everyone.
 
 This Code of Conduct applies to:
 
-- all repositories under the `collectiv-ai` GitHub organisation,
-- issues, pull requests and discussions,
-- project-related communication in other channels (where applicable).
+- all repositories under the `collectiv-ai` organisation,
+- all issues, pull requests and discussions,
+- all community spaces related to CollectiVAI (online or offline).
 
 ---
 
-## Our pledge
+## 1. Our Values
 
-We, as members, contributors and maintainers, pledge to:
+We try to build software that reflects our values:
 
-- treat each other with **respect and dignity**,
-- keep discussions **constructive and focused on the topic**,
-- be especially mindful of **newcomers** and people with different backgrounds,
-- act in the spirit of **democratic, human-centred AI**.
-
-There is **zero tolerance** for harassment, hate or dehumanising language.
-
----
-
-## Our standards
-
-Examples of behaviour that helps the community:
-
-- using welcoming and inclusive language,
-- giving constructive feedback instead of personal criticism,
-- being open to different perspectives and experiences,
-- focusing on what is best for users and the public interest,
-- acknowledging mistakes and correcting them.
-
-Examples of unacceptable behaviour include:
-
-- harassment, insults, personal attacks or threats,
-- discriminatory comments related to gender, identity, origin, religion, disability or similar,
-- publishing private information without explicit permission,
-- sustained disruption of discussions or work,
-- using the project to promote hate, violence or disinformation.
+- **Respect** – we treat each other with courtesy and good faith.  
+- **Inclusivity** – everyone is welcome, independent of background or identity.  
+- **Constructive collaboration** – we focus on solving problems, not on attacking people.  
+- **Openness** – questions are allowed, beginners are welcome.  
+- **Responsibility** – we are careful with topics like security, democracy and AI ethics.
 
 ---
 
-## Scope
+## 2. Expected Behaviour
 
-This Code of Conduct applies within all project spaces:
+Please:
 
-- GitHub issues, pull requests and discussions,
-- documentation and comments,
-- any other official communication channels used by CollectiVAI.
-
----
-
-## Reporting
-
-If you experience or witness behaviour that violates this Code of Conduct, please report it via:
-
-- 📧 **info@collectivai.org** (subject line: `Code of Conduct`)
-
-Please include, if possible:
-
-- where it happened (repository, issue, PR),
-- links or screenshots,
-- a short description of what happened.
-
-Reports will be treated with **discretion**. Public shaming is not expected or required.
+- use clear, respectful language,
+- be patient with different experience levels,
+- assume good intentions first,
+- give constructive, specific feedback,
+- respect privacy and confidentiality where needed,
+- follow the repository guidelines (CONTRIBUTING, SECURITY, LICENSE, etc.).
 
 ---
 
-## Enforcement
+## 3. Unacceptable Behaviour
 
-The project maintainer(s) may take appropriate action, including:
+We do **not** accept:
 
-- asking someone to stop certain behaviour,
-- hiding or editing comments (when clearly harmful),
-- temporarily or permanently restricting participation in repositories.
+- harassment, insults, personal attacks,
+- discriminatory language (racist, sexist, homophobic, etc.),
+- threats or encouragement of violence,
+- sharing of private data without consent,
+- deliberate spread of misinformation in the context of the project,
+- spam, trolling or off-topic noise in issues/PRs.
 
-In serious or repeated cases, users may be blocked from the organisation.
-
-We aim to act **fairly, proportionally and transparently**, in line with the values of CollectiVAI.
+If you are not sure whether something is okay – treat people with extra care.
 
 ---
 
-## Attribution
+## 4. Reporting Issues
 
-This Code of Conduct is inspired by common open source practices  
-and adapted for the CollectiVAI project and its democratic AI focus.
+If you experience or witness behaviour that violates this Code of Conduct:
+
+1. You can contact the maintainer/founder directly:  
+   **info@collectivai.org**
+
+2. Or, if appropriate, open an issue in the relevant repository  
+   (for example when it is purely technical / organisational).
+
+Please include:
+
+- a short description of what happened,
+- where (which repo, issue, PR, platform),
+- optional: screenshots or links.
+
+We will treat all reports as confidential and handle them with care.
+
+---
+
+## 5. Consequences
+
+Possible actions include (depending on severity and context):
+
+- friendly clarification or reminder,
+- request to edit or remove problematic content,
+- temporary or permanent blocking from issues/PRs,
+- removal from the organisation or project spaces.
+
+The goal is **not punishment**, but to protect the community and its values.
+
+---
+
+## 6. Scope & Changes
+
+This Code of Conduct applies to **all CollectiVAI repositories**  
+and may be updated as the project grows.
+
+If you have suggestions for improvement, feel free to open an issue  
+in the `.github` repository or contact: **info@collectivai.org**.
