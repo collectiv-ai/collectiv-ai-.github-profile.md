@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="logo.png" alt="CollectiVAI Logo" width="400" />
+  <img src="logo.png" alt="CollectiVAI Logo" width="260" />
 </p>
 
 <h1 align="center">CollectiVAI</h1>
 <h3 align="center">Democratic AI for Europe</h3>
 
 <p align="center">
-  <a href="#deutsch">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
+  <a href="#deutsch">🇩🇪 Deutsch</a> ·
   <a href="#english">🇬🇧 English</a>
 </p>
 
@@ -14,124 +14,75 @@
 
 ## 🇩🇪 Was ist CollectiVAI? <a id="deutsch"></a>
 
-**CollectiVAI** ist ein europäisches Projekt für **demokratische, menschenzentrierte KI**.
+**CollectiVAI** ist ein unabhängiges Projekt für **demokratische, menschenzentrierte KI**  
+mit Fokus auf Europa, öffentliche Infrastruktur und digitale Bürgerbeteiligung.
 
-Die Grundidee:  
-KI soll wie eine **öffentliche digitale Infrastruktur** funktionieren –  
-transparent, überprüfbar und auf Demokratie, Menschenwürde und Grundrechte ausgerichtet.
+**Bausteine der Plattform:**
 
-**Schwerpunkte:**
+- **CollectiVAI App** – Civic- & AI-Client für iOS, iPadOS & macOS  
+  👉 [`collectiv-ai-app`](https://github.com/collectiv-ai/collectiv-ai-app)
+- **CollectiVAI Chain** – geplante Cosmos-App-Chain für Governance & Voting  
+  👉 [`collectiv-ai-app-chain`](https://github.com/collectiv-ai/collectiv-ai-app-chain)
+- **Website & öffentliche Dokumente** – Landingpage, Whitepaper, Roadmap  
+  👉 [`collectiv-ai.github.io`](https://github.com/collectiv-ai/collectiv-ai.github.io)
+- **Business & Strategy** – Geschäftsmodell, Förderlogik, Partnerstruktur  
+  👉 [`collectiv-ai-business`](https://github.com/collectiv-ai/collectiv-ai-business)
+- **Branding & Design-System** – Logo, Farben, UI-Assets  
+  👉 [`collectiv-ai-branding`](https://github.com/collectiv-ai/collectiv-ai-branding)
 
-- Demokratie & Bürgerbeteiligung  
-- Klima & Nachhaltigkeit  
-- Gesellschaft, Sicherheit & Resilienz  
-- Transparente, multi-provider AI-Routing-Architektur
+**Leitprinzipien:**
 
----
-
-### 🚀 Kern-Bausteine
-
-- **📱 CollectiVAI App**  
-  iOS / iPadOS / macOS – demokratischer AI-Begleiter & Civic-Client.  
-  → [`collectiv-ai-app`](https://github.com/collectiv-ai/collectiv-ai-app)
-
-- **⛓ CollectiVAI Chain (Cosmos App-Chain)**  
-  Governance-, Voting- und Treasury-Infrastruktur für demokratische Entscheidungen.  
-  → [`collectiv-ai-app-chain`](https://github.com/collectiv-ai/collectiv-ai-app-chain)
-
-- **📄 Business & Strategie**  
-  Öffentlich einsehbarer Business-Plan, Förderlogik und Roadmap.  
-  → [`collectiv-ai-business`](https://github.com/collectiv-ai/collectiv-ai-business)
-
-- **🎨 Branding & Visual Identity**  
-  Logos, Farben, Visuals für Website, App, Decks & Kommunikation.  
-  → [`collectiv-ai-branding`](https://github.com/collectiv-ai/collectiv-ai-branding)
-
----
-
-### 📊 Projektstatus (Ende 2025)
-
-- ✅ Konzept, Vision & Branding  
-- ✅ Website & öffentliche Dokus – [collectivai.org](https://collectivai.org)  
-- ✅ Erste App-Prototypen (SwiftUI, iOS / iPadOS / macOS)  
-- ✅ Chain-Repository mit Struktur, Governance-Entwurf & Docs  
-- ⏳ Pilotprojekte mit Städten, Unis, NGOs  
-- ⏳ Devnet / Testnet der CollectiVAI Chain  
-- ⏳ App-Store-Launch & öffentliche Beta
-
----
-
-### 🤝 Mitmachen & Kooperation
-
-CollectiVAI richtet sich an:
-
-- Städte & Kommunen  
-- Universitäten & Forschungsinstitute  
-- NGOs & zivilgesellschaftliche Organisationen  
-- CivicTech-Communities & Public-Interest-Tech-Projekte
-
-Wenn du Interesse an Piloten, Forschung oder gemeinsamer Entwicklung hast:  
-→ Besuche [collectivai.org](https://collectivai.org) oder öffne ein Issue in einem der Repositories.
+- 🧭 **Demokratie zuerst** – KI als Werkzeug für bessere Entscheidungen, nicht als Ersatz.  
+- 🔍 **Transparenz** – nachvollziehbare Routing-Entscheidungen, klare Datenflüsse.  
+- 🛡 **Privacy & Sicherheit** – keine Werbung, keine Tracker, keine Dark Patterns.  
+- 🇪🇺 **Europa-Fokus** – ausgerichtet an Grundrechten & europäischer Regulierung.
 
 ---
 
 ## 🇬🇧 What is CollectiVAI? <a id="english"></a>
 
-**CollectiVAI** is a European initiative for **democratic, human-centered AI**.
+**CollectiVAI** is an independent project for **democratic, human-centred AI**  
+with a focus on Europe, public infrastructure and digital participation.
 
-The core idea:  
-AI should work like a **public digital infrastructure** –  
-transparent, auditable and aligned with democracy, dignity and fundamental rights.
+**Core building blocks:**
 
-**Focus areas:**
+- **CollectiVAI App** – civic & AI client for iOS, iPadOS & macOS  
+  👉 [`collectiv-ai-app`](https://github.com/collectiv-ai/collectiv-ai-app)
+- **CollectiVAI Chain** – planned Cosmos-based governance & voting app-chain  
+  👉 [`collectiv-ai-app-chain`](https://github.com/collectiv-ai/collectiv-ai-app-chain)
+- **Website & public docs** – landing page, whitepaper, roadmap  
+  👉 [`collectiv-ai.github.io`](https://github.com/collectiv-ai/collectiv-ai.github.io)
+- **Business & strategy** – funding model, partners, sustainability  
+  👉 [`collectiv-ai-business`](https://github.com/collectiv-ai-business)
+- **Branding & design system** – logo, colour system, UI assets  
+  👉 [`collectiv-ai-branding`](https://github.com/collectiv-ai/collectiv-ai-branding)
 
-- Democracy & civic participation  
-- Climate & sustainability  
-- Society, security & resilience  
-- Transparent multi-provider AI routing
+**Guiding principles:**
 
----
-
-### 🚀 Core building blocks
-
-- **📱 CollectiVAI App**  
-  iOS / iPadOS / macOS – democratic AI companion & civic client.  
-  → [`collectiv-ai-app`](https://github.com/collectiv-ai/collectiv-ai-app)
-
-- **⛓ CollectiVAI Chain (Cosmos App-Chain)**  
-  Governance, voting and treasury infrastructure for democratic decision-making.  
-  → [`collectiv-ai-app-chain`](https://github.com/collectiv-ai-app-chain)
-
-- **📄 Business & strategy**  
-  Public business plan, funding logic and roadmap.  
-  → [`collectiv-ai-business`](https://github.com/collectiv-ai/collectiv-ai-business)
-
-- **🎨 Branding & visual identity**  
-  Logos, colors and visuals for web, app and presentations.  
-  → [`collectiv-ai-branding`](https://github.com/collectiv-ai/collectiv-ai-branding)
+- 🧭 **Democracy first** – AI as a tool to *support* human decisions.  
+- 🔍 **Transparency** – explainable routing and visible data paths.  
+- 🛡 **Privacy & security** – no ads, no trackers, no dark patterns.  
+- 🇪🇺 **European focus** – aligned with fundamental rights & EU regulation.
 
 ---
 
-### 📊 Project status (late 2025)
+## 🤝 Get involved / Mitmachen
 
-- ✅ Concept, vision & branding  
-- ✅ Website & public docs – [collectivai.org](https://collectivai.org)  
-- ✅ First app prototypes (SwiftUI, iOS / iPadOS / macOS)  
-- ✅ Chain repo with structure, governance draft & docs  
-- ⏳ Pilot projects with cities, universities & NGOs  
-- ⏳ Devnet / testnet for the CollectiVAI Chain  
-- ⏳ App Store launch & public beta
+- ⭐️ Repositories **starren** / **star** the repos you care about  
+- 🐛 Feedback & Ideen als GitHub Issues einreichen  
+- 🧪 Prototypen testen (App & Chain, sobald öffentlich verfügbar)  
+- 🌍 Städte, NGOs, Labs & Universitäten können sich über die Website melden:  
+  **https://collectivai.org**
 
 ---
 
-### 🤝 Collaboration
+© David Miecznikowski, CollectiVAI.  
+Alle Rechte am Namen, Logo und Branding vorbehalten.  
+Code-Lizenzen sind pro Repository definiert.
 
-CollectiVAI is open to:
+# CollectiVAI – GitHub organisation profile
 
-- Cities & municipalities  
-- Universities & research labs  
-- NGOs & civil society organisations  
-- Civic tech communities & public-interest tech projects
+This repository configures the public profile for the **CollectiVAI** organisation on GitHub.
 
-If you are interested in pilots, research or co-development:  
-→ Visit [collectivai.org](https://collectivai.org) or open an issue in one of the repositories.
+The actual profile content lives in `profile/README.md` and is rendered at:  
+https://github.com/collectiv-ai
