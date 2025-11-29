@@ -2,21 +2,34 @@
   <img src="logo.png" alt="CollectiVAI Logo" width="400" />
 </p>
 
+<p align="center">
+  <a href="https://collectivai.org">
+    <img src="https://img.shields.io/badge/Website-collectivai.org-003399?style=flat" alt="Website" />
+  </a>
+  <a href="https://github.com/collectiv-ai/collectiv-ai-app">
+    <img src="https://img.shields.io/badge/App-Alpha-ffcc00?style=flat" alt="App Alpha" />
+  </a>
+  <a href="https://github.com/collectiv-ai/collectiv-ai-app-chain">
+    <img src="https://img.shields.io/badge/Chain-Pre--Alpha-999999?style=flat" alt="Chain Pre-Alpha" />
+  </a>
+  <img src="https://img.shields.io/badge/Made%20in-Europe-003399?style=flat" alt="Made in Europe" />
+</p>
+
 <h1 align="center">CollectiVAI</h1>
 <h3 align="center">Democratic AI for Europe</h3>
 
 <p align="center">
-  CollectiVAI – Your Human-centered AI infrastructure for people in Europe.. Made in Europe
+  <em>Human-centered AI infrastructure for people in Europe. Made in Europe.</em>
 </p>
 
 ---
 
 ## About CollectiVAI
 
-CollectiVAI is an independent project exploring **democratic, human-centred AI**  
+CollectiVAI is an independent project exploring **democratic, human-centered AI**
 with a strong European focus.
 
-The core idea:
+The core idea is to:
 
 - use AI to help people **understand** policies and proposals,
 - support **participation** by citizens, experts and institutions,
@@ -31,12 +44,12 @@ The core idea:
   - civic use cases for cities, universities, NGOs and startups  
 
 - **CollectiVAI Chain** – planned Cosmos-based app-chain for:
-  - transparent governance and voting
-  - proposals, votes and treasury movements on-chain
+  - transparent governance and voting  
+  - proposals, votes and treasury movements on-chain  
 
 - **Public docs & website**
-  - human-readable overview of the project
-  - business plan, roadmap and civic use cases
+  - human-readable overview of the project  
+  - business plan, roadmap and civic use cases  
 
 ---
 
@@ -64,27 +77,27 @@ The core idea:
 
 - 👤 **Founder profile & portfolio**  
   Background, experience and ecosystem:  
-  [`collectiv-ai-about-founder`](https://github.com/collectiv-ai/collectiv-ai-about-founder)
+  [`collectiv-ai-about-founder`](https://github.com/collectiv-ai-about-founder)
 
 - 🤝 **Sponsors & partners**  
   Information for supporters and institutions:  
-  [`collectiv-ai-sponsors`](https://github.com/collectiv-ai/collectiv-ai-sponsors)
+  [`collectiv-ai-sponsors`](https://github.com/collectiv-ai-sponsors)
 
 ---
 
 ## Status
 
-- ✅ Public concept, business plan and initial repositories
-- ✅ Early app prototype (Xcode, SwiftUI)
-- ✅ Draft architecture for Cosmos-based app-chain
-- 🔄 Ongoing work on civic use cases with cities, universities and NGOs
-- 🔬 Long-term focus on AI safety, democracy and public interest
+- ✅ Public concept, business plan and initial repositories  
+- ✅ Early app prototype (Xcode, SwiftUI)  
+- ✅ Draft architecture for Cosmos-based app-chain  
+- 🔄 Ongoing work on civic use cases with cities, universities and NGOs  
+- 🔬 Long-term focus on AI safety, democracy and the public interest  
 
 ---
 
-## Licences & branding
+## Licenses & branding
 
-Source code licences are defined **per repository**  
+Source code licenses are defined **per repository**  
 (see the `LICENSE` file in each project).
 
 The **CollectiVAI name, logo and visual identity** are protected.  
