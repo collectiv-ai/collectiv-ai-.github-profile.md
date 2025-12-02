@@ -47,6 +47,10 @@ The core idea is to:
   - transparent governance and voting  
   - proposals, votes and treasury movements on-chain  
 
+- **CollectiVAI Router & Ecosystem**
+  - multi-provider AI routing (OpenAI, local models, etc.)  
+  - local macOS M2 Max lab for AI, security and blockchain (CollectiVAI control center)  
+
 - **Public docs & website**
   - human-readable overview of the project  
   - business plan, roadmap and civic use cases  
@@ -63,6 +67,14 @@ The core idea is to:
   CollectiVAI governance & voting chain:  
   [`collectiv-ai-app-chain`](https://github.com/collectiv-ai/collectiv-ai-app-chain)
 
+- 🔀 **AI Router (multi-provider backend)**  
+  Routing layer between different AI providers and local models:  
+  [`collectiv-ai-router`](https://github.com/collectiv-ai/collectiv-ai-router)
+
+- 🖥 **macOS M2 Max Ecosystem (Lab & Control Center)**  
+  Local AI, security and blockchain environment (Ollama, PrivateGPT, nodes, scripts):  
+  [`collectiv-ai-macbook-pro`](https://github.com/collectiv-ai/collectiv-ai-macbook-pro)
+
 - 🌐 **Website & public documentation**  
   Landing page and docs (EN/DE):  
   [`collectiv-ai.github.io`](https://github.com/collectiv-ai/collectiv-ai.github.io)
@@ -77,11 +89,11 @@ The core idea is to:
 
 - 👤 **Founder profile & portfolio**  
   Background, experience and ecosystem:  
-  [`collectiv-ai-about-founder`](https://github.com/collectiv-ai-about-founder)
+  [`collectiv-ai-about-founder`](https://github.com/collectiv-ai/collectiv-ai-about-founder)
 
 - 🤝 **Sponsors & partners**  
   Information for supporters and institutions:  
-  [`collectiv-ai-sponsors`](https://github.com/collectiv-ai-sponsors)
+  [`collectiv-ai-sponsors`](https://github.com/collectiv-ai/collectiv-ai-sponsors)
 
 ---
 
@@ -90,6 +102,7 @@ The core idea is to:
 - ✅ Public concept, business plan and initial repositories  
 - ✅ Early app prototype (Xcode, SwiftUI)  
 - ✅ Draft architecture for Cosmos-based app-chain  
+- ✅ macOS M2 Max lab & ecosystem documented  
 - 🔄 Ongoing work on civic use cases with cities, universities and NGOs  
 - 🔬 Long-term focus on AI safety, democracy and the public interest  
 
